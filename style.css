@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+ }
+ button {
+    background-color: black;
+    color: white;
+    border-color: white;
+ }
+ button:active {
+    transform: scale(0.95);
+ }
+ .container {
+    text-align: center;
+ }
+ #time {
+    font-size: xx-large;
+    font-weight: bold;
+ }
+ #date {
+    font-size: x-large;
+ }
+ h1 {
+    font-size: 40px;
+    transform: scale(1.5);
+    font-weight: bolder;
+ }
+ #stopwatchtime {
+   font-size: xx-large;
+ }
+ h2 {
+   font-size: small;
+   position: fixed; 
+   bottom: 0; 
+   right: 0; 
+   margin: 10px;
+ }
